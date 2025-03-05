@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\HP\source\repos\PruebaTecnica2\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
